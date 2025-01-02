@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultoría y Gestión de Proyectos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #00539C;
+            color: #fff;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            background-color: #0073E6;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section.mission {
+            padding: 40px 10%;
+            text-align: center;
+        }
+        footer {
+            background-color: #003366;
+            color: #fff;
+            text-align: center;
+            padding: 20px 10%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Consultoría y Gestión de Proyectos</h1>
+        <p>Impulsando el éxito sostenible de nuestros clientes</p>
+    </header>
+
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#servicios">Servicios</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+    <section class="mission">
+        <h2>Nuestra Misión</h2>
+        <p>Proveer soluciones innovadoras y personalizadas en consultoría y gestión de proyectos, fomentando un entorno colaborativo que impulse el éxito de nuestros clientes y contribuya al desarrollo sostenible de sus negocios.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Consultoría y Gestión de Proyectos. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
