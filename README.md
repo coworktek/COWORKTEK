@@ -1,16 +1,5 @@
-## Hi there 👋
+  **COWORKTEK**
 
-<!--
-**coworktek/COWORKTEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diseño suministro, construcción interventoría, mantenimiento, capacitación, consultoría, Comercialización y Marketing en  proyectos de Ingeniería eléctrica, civil, mecánica, telecomunicaciones , instrumentación y seguridad electrónica. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...INGENIERIA PROYECTOS
-- 🌱 I’m currently learning ...DISEÑO DE PAGINAS WEB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Servicios integrales de Ingeniería eléctrica, civil, mecánica, telecomunicaciones , instrumentación y seguridad electrónica
