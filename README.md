@@ -6,8 +6,8 @@ Diseño suministro, construcción interventoría, mantenimiento, capacitación, 
 
 Servicios integrales de Ingeniería eléctrica, civil, mecánica, telecomunicaciones , instrumentación y seguridad electrónica
 
-**Contactenos**
-email: coworktek@gmail.com
+**Contáctenos**
+email:coworktek@gmail.com
 celular:3143590693
 instagram:@coworktek
 facebook:@coworktek
